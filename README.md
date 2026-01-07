@@ -99,7 +99,7 @@ const pallavi = {
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
 <!-- GitHub Stats, Streak, and Top Langs (Currently Services Down) -->
 <!--
@@ -113,7 +113,7 @@ const pallavi = {
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
 
 <!-- GitHub Trophies (Currently Service Down) -->
 <!--
