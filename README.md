@@ -101,30 +101,26 @@ const pallavi = {
 
 ## 📊 GitHub Stats
 
+<!-- GitHub Stats, Streak, and Top Langs (Currently Services Down) -->
+<!--
 <div align="center">
-  
-<!-- GitHub Stats Cards -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PallaviJadar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&ring_color=F75C7E&fire_color=F75C7E" alt="GitHub Stats" />
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PallaviJadar&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-
-<!-- Top Languages -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PallaviJadar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-
-<!-- Contribution Graph -->
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=PallaviJadar&theme=react-dark&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&area_color=F75C7E" alt="Contribution Graph" />
-
 </div>
+-->
 
 ---
 
 ## 🏆 GitHub Trophies
 
+<!-- GitHub Trophies (Currently Service Down) -->
+<!--
 <div align="center">
-  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=PallaviJadar&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
-
 </div>
+-->
 
 ---
 
