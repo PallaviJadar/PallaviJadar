@@ -155,16 +155,16 @@ const pallavi = {
 
 ---
 
-## 🎯 Featured Projects
+<!-- ## 🎯 Featured Projects -->
 
+<!-- Featured Projects (Currently Service Down) -->
+<!--
 <div align="center">
-
-<!-- Project Cards -->
 <a href="https://github.com/PallaviJadar/PallaviJadar">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PallaviJadar&repo=PallaviJadar&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" alt="Profile Repo"/>
 </a>
-
 </div>
+-->
 
 ---
 
